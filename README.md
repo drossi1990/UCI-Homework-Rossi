@@ -1,2 +1,2 @@
 # UCI-Homework-Rossi
-"This is my first homework"
+This is my first homework
